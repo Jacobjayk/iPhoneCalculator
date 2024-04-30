@@ -1,4 +1,4 @@
-## iphone Calculator
+## iPhone Calculator
 
 An elegant and intuitive iPhone calculator app designed for simplicity and functionality, mirroring the classic style with modern features.
 
